@@ -17,13 +17,7 @@ https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
 
 For each assignment, please answer the following:
 
-- Explain the level of flexibility in your implementation, including how new object types can
-be easily added or removed in the future.
-- Discuss the simplicity and understandability of your implementation, ensuring that it is
-easy for others to read and maintain.
-- Describe how you have avoided duplicated code and why it is important.
-- If applicable, mention any design patterns you have used and explain why they were
-chosen.
+I used the observed pattern, and used the Observer and Subject class to decouple the classes from each other and make the code more modular and maintainable. And observer pattern is commonly used in event-driven system. It promoting flexibility and scalability in the system
 
 
 # Maven Commands
