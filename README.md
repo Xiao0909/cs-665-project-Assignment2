@@ -10,7 +10,7 @@
 Please add a paragraph or two overviewing the objectives of the assignment.
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
+git@github.com:Xiao0909/cs-665-project-Assignment2.git
 
 # Implementation Description 
 
